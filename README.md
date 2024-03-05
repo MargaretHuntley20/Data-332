@@ -1,4 +1,5 @@
-![Amount_of_student_in_each_major](https://github.com/MargaretHuntley20/Data-332/assets/159860804/f5c9938b-7d0e-406f-9cd7-ad6ae41e8b4f)
-![Balance_due_per_major_and_payment_plan](https://github.com/MargaretHuntley20/Data-332/assets/159860804/9715baab-af7b-40f1-b915-4cac02513c19)
-![Birth_years_of_students](https://github.com/MargaretHuntley20/Data-332/assets/159860804/1bca14f8-b089-4bc7-b9ba-d9266dbad219)
-![Cost_per_major_and_payment_plan](https://github.com/MargaretHuntley20/Data-332/assets/159860804/a56849f6-b268-44a4-8012-6cf1651a8bcd)
+
+![Amount_of_student_in_each_major](https://github.com/MargaretHuntley20/Data-332/assets/159860804/cdf2629c-69a0-43da-b527-d9cb760ab7d4)
+![Balance_due_per_major_and_payment_plan](https://github.com/MargaretHuntley20/Data-332/assets/159860804/9abb8cb8-5fa1-449b-be40-8b3ca45bc04f![Birth_years_of_students](https://github.com/MargaretHuntley20/Data-332/assets/159860804/22dbf217-a5fb-4d89-82de-b2afe70d9353)
+)
+![Cost_per_major_and_payment_plan](https://github.com/MargaretHuntley20/Data-332/assets/159860804/f35b686e-b002-46bf-8126-4f45ec0f2885)
