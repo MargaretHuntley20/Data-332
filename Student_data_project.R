@@ -57,7 +57,6 @@ ggplot(df_birth_year_students_pivots, aes(x = Birth.Year, y = count , fill = Bir
 
 
 ## make a chart on total cost per major, segment by payment plant
-##amount_using_payment_plan <- sum(df$Payment.Plan == TRUE, na.rm = TRUE)
 
 ## Make pivot table fir cost per major segmented by payement plan
 df_cost_per_major_pivots <- df %>%  
