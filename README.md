@@ -47,6 +47,7 @@
 #### This graphs tells us that 'protection' comes up less than 25,000 times, but is the postive word that comes up the most 
 ### Consumer Complaints Word Cloud 
 <img width="488" alt="Screen Shot 2024-03-22 at 8 19 27 PM" src="https://github.com/MargaretHuntley20/Data-332/assets/159860804/b11200dd-d12d-4aac-ac07-cec7ad66d8d5">
+
 #### This shows us some of the words that are used in the complaints that Ocwen Bank recieved 
 ## Conclusion 
 ### In conclusion text sentiments shows us what complaints occur most often which can lead banks and other companies to making the necessary improvements 
