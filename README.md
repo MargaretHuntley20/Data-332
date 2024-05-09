@@ -7,12 +7,12 @@ This Analysis is looking over 6 Uber data sets from April  to September 2014. Th
 I had two major problems occur during this Analysis 
 1. I was not able to make a Geospatial Leaflet as every attempt made ended up freezing my R application and the only way to undo the freeze effect was to completely shut off my laptop. 
 ## Data Dictionary 📖
-The columns I used in my analysis are as follows: 
+##### The columns I used in my analysis are as follows: 
 1. Date.Time: The original column that holds the date and the time of the Uber trip. The format being Year-Month-Day Hour:Minute:Second 
 2. Lat: The Latitude of the Uber trip 
 3. Lon: The Longitude of the Uber trip
 4. Base: A unique identifier of the Uber driver
-The following columns are columns I created in order to aid in Analyzing the data. 
+###### The following columns are columns I created in order to aid in Analyzing the data. 
 5. Date: A separate column for the Date of the Uber Trip that comes from the original Date.Time column. The date is in year-month-day format
 6. Time: A separate column for the Time of the Uber Trip that occurred and comes from the original Date.Time column. The date is in hourH minuteM secondS format
 7. Hour: A separate column for the Hour of the day of the Uber Trip that occurred and comes from the original Date.Time column. 
