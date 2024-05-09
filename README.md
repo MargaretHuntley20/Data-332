@@ -4,7 +4,7 @@ Maggie Huntley
 ## Introduction
 This Analysis is looking over 6 Uber data sets from April  to September 2014. Through this analysis I will attempt to provide data trends by looking more deeply into variables such as Base, Date.Time, Date, Time, Hour, Month, Day of the Week, and the Week of the Year. 
 ## Problems that Occurred During Analysis 
-I had two major problems occur during this Analysis 
+I had one major problems occur during this Analysis 
 1. I was not able to make a Geospatial Leaflet as every attempt made ended up freezing my R application and the only way to undo the freeze effect was to completely shut off my laptop. 
 ## Data Dictionary 📖
 ##### The columns I used in my analysis are as follows: 
