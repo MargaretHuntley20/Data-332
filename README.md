@@ -51,6 +51,6 @@ My data analysis was completed in a Shiny App.
 All charts were made using the library ggplot2. 
 The link to the shiny app is here: 
 [Uber_Anlysis](https://huntleymargaret.shinyapps.io/Uber_Project/)
-I was able to publish this shiny app by turning all of my data cleaning and importing into a RBS and importing that into the file. 
+I was able to publish this shiny app by turning all of my data cleaning and importing into a RDS and importing that into the file. 
 ## Conclusion 
 In conclusion, Uber trips are higher overall in August compared to all other months. Uber trips are also higher during the week compared to weekdays. Uber trips are at a peak at 3-8pm. Uber trips should continue to increase in the coming months. Lastly Uber can use this analysis to help determine which areas they should increase research on and increase advertising for. 
